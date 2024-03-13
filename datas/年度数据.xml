@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<root>
+	<database>数据库：年度数据</database>
+	<data>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2023年</field>
+			<field name="数据">130.2000</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2022年</field>
+			<field name="数据">124.2479</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2021年</field>
+			<field name="数据">117.6526</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2020年</field>
+			<field name="数据">110.6551</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2019年</field>
+			<field name="数据">91.6503</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2018年</field>
+			<field name="数据">85.7966</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2017年</field>
+			<field name="数据">80.6103</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2016年</field>
+			<field name="数据">66.7064</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2015年</field>
+			<field name="数据">64.5055</field>
+		</record>
+		<record>
+			<field name="指标">研究生招生数(万人)</field>
+			<field name="时间">2014年</field>
+			<field name="数据">62.1323</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2023年</field>
+			<field name="数据">388.3000</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2022年</field>
+			<field name="数据">365.3613</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2021年</field>
+			<field name="数据">333.2373</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2020年</field>
+			<field name="数据">313.9598</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2019年</field>
+			<field name="数据">286.3712</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2018年</field>
+			<field name="数据">273.1257</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2017年</field>
+			<field name="数据">263.9561</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2016年</field>
+			<field name="数据">198.1051</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2015年</field>
+			<field name="数据">191.1406</field>
+		</record>
+		<record>
+			<field name="指标">研究生在学人数(万人)</field>
+			<field name="时间">2014年</field>
+			<field name="数据">184.7689</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2023年</field>
+			<field name="数据">101.5000</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2022年</field>
+			<field name="数据">86.2165</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2021年</field>
+			<field name="数据">77.2761</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2020年</field>
+			<field name="数据">72.8627</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2019年</field>
+			<field name="数据">63.9666</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2018年</field>
+			<field name="数据">60.4368</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2017年</field>
+			<field name="数据">57.8045</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2016年</field>
+			<field name="数据">56.3938</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2015年</field>
+			<field name="数据">55.1522</field>
+		</record>
+		<record>
+			<field name="指标">研究生毕业生数(万人)</field>
+			<field name="时间">2014年</field>
+			<field name="数据">53.5863</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2023年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2022年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2021年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2020年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2019年</field>
+			<field name="数据">70.3500</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2018年</field>
+			<field name="数据">66.2100</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2017年</field>
+			<field name="数据">60.8400</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2016年</field>
+			<field name="数据">54.4500</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2015年</field>
+			<field name="数据">52.3700</field>
+		</record>
+		<record>
+			<field name="指标">出国留学人员(万人)</field>
+			<field name="时间">2014年</field>
+			<field name="数据">45.9800</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2023年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2022年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2021年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2020年</field>
+			<field name="数据"/>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2019年</field>
+			<field name="数据">58.0300</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2018年</field>
+			<field name="数据">51.9400</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2017年</field>
+			<field name="数据">48.0900</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2016年</field>
+			<field name="数据">43.2500</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2015年</field>
+			<field name="数据">40.9100</field>
+		</record>
+		<record>
+			<field name="指标">学成回国留学人员(万人)</field>
+			<field name="时间">2014年</field>
+			<field name="数据">36.4800</field>
+		</record>
+	</data>
+</root>
