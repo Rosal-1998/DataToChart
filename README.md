@@ -7,7 +7,7 @@
 3. [js-xlsx](https://jelly.jd.com/article/6006b1035b6c6a01506c879e)
 4. [Element](https://element-plus.org/zh-CN/)
 ##### 功能说明：
-1. 针对**根据时间变化**的数据进行线性图标的可视化。
+1. 针对**根据时间变化**的数据进行线性图表的可视化。
    
 
 ##### 更新日志
